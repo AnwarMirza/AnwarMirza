@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Anwar's Github Space ....
+
+I am Anwar, and I work with python, MATLAB, C/C++, Java and all other programming languages in areas related with machine learning, artificial intelligence (neural networks, fuzzy login, genetic programming in particular) and computer vision. I am currently working as an adjunct professor in the beautiful city of Toronto, Canada. Formerly, I have wored at the King Saud University, Saudi Arabia and GIK Institute, Pakistan.
+
+I am looking to collaborate on machine learning and AI projects.
